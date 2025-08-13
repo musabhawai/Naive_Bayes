@@ -3,7 +3,7 @@
 ## 📌 Overview
 This repository contains two small projects demonstrating the use of *Naive Bayes classification*:
 1. *Titanic Survival Prediction* – Predicting whether a passenger survived the Titanic disaster using cross-validation for model evaluation.
-2. *Ads Purchase Prediction* – Predicting whether a user will purchase a product based on demographics and behavior, evaluated using a confusion matrix.
+2. *Ad Purchase Prediction* – Predicting whether a user will purchase a product based on demographics and behavior, evaluated using a confusion matrix.
 
 ## 📖 About Naive Bayes
 Naive Bayes is a *probabilistic classification algorithm* based on *Bayes' Theorem* with the assumption that features are independent.

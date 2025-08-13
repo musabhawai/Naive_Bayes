@@ -1,4 +1,5 @@
 # Naive_Bayes
+
 ## 📌 Overview
 This repository contains two small projects demonstrating the use of *Naive Bayes classification*:
 1. *Titanic Survival Prediction* – Predicting whether a passenger survived the Titanic disaster using cross-validation for model evaluation.
